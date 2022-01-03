@@ -1,9 +1,9 @@
 ### Hi there, I'm [Apar Awasthi][website] 👋
 
-## I'm a Developer, and a Full time Studeny!!
+## I'm a Developer, and a Full time Student!!
 
 -   🔭 I just have launched my [Development Blogging Website][website]!
--   🌱 I’m currently learning everything 🤣
+-   🌱 I’m currently learning nextJS :v:
 -   👯 I’m looking to collaborate with other developers
 -   🥅 2022 Goals: Contribute more to Open Source projects
 
