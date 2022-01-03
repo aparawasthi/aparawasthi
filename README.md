@@ -34,12 +34,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
-</details>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aparawasthi&count_private=true)
 
 [website]: https://aparawasthi.in
 [twitter]: https://twitter.com/AparAwasthi
