@@ -36,8 +36,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aparawasthi&show_icons=true&&hide=stars,prs,issues&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aparawasthi&show_icons=true&&hide=issues&count_private=true)
 
 </details>
 
